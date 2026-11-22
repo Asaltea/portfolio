@@ -228,7 +228,7 @@
   if (PROFIL.cv) liens.push(`<li><a href="${esc(PROFIL.cv)}" download>Mon CV (PDF)</a></li>`);
   $("[data-contact]").innerHTML = liens.length
     ? liens.join("")
-    : `<li class="contact-missing">Ajoute ton e-mail, LinkedIn et GitHub dans js/data.js pour les afficher ici.</li>`;
+    : `<li class="contact-missing">fatimazohra.tahiri@gmail.com</li>`;
 
   /* ---------- Menu mobile ---------- */
   const toggle = $(".nav-toggle");
