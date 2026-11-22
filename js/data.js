@@ -12,7 +12,7 @@ const PROFIL = {
   nomComplet: "Fatima-Zohra Tahiri",
   titre: "Technicienne informatique en formation au CNAM",
   accroche:
-    "Après un Mastère en communication, je me réoriente vers l’informatique. Je cherche un stage pour mettre les mains dans le support, les systèmes et le développement web.",
+    "Après un Mastère en communication, je me réoriente vers l’informatique. Je cherche un stage pour mettre en pratique mes compétences en support informatique, en administration des systèmes et en développement web.",
   stage: "Disponible pour un stage", // ex. « Stage de 8 semaines à partir d’avril 2027 »
   email: "fatimazohra.tahiri@gmail.com",        // À COMPLÉTER, ex. "fatima.tahiri@email.fr"
   linkedin: "",     // À COMPLÉTER, ex. "https://www.linkedin.com/in/..."
