@@ -14,7 +14,7 @@ const PROFIL = {
   accroche:
     "Après un Mastère en communication, je me réoriente vers l’informatique. Je cherche un stage pour mettre les mains dans le support, les systèmes et le développement web.",
   stage: "Disponible pour un stage", // ex. « Stage de 8 semaines à partir d’avril 2027 »
-  email: "",        // À COMPLÉTER, ex. "fatima.tahiri@email.fr"
+  email: "fatimazohra.tahiri@gmail.com",        // À COMPLÉTER, ex. "fatima.tahiri@email.fr"
   linkedin: "",     // À COMPLÉTER, ex. "https://www.linkedin.com/in/..."
   github: "",       // À COMPLÉTER, ex. "https://github.com/..."
   cv: "",           // À COMPLÉTER, ex. "assets/cv-fatima-tahiri.pdf" (dépose le PDF dans assets/)
